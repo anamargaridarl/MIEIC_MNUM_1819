@@ -1,0 +1,5 @@
+﻿  TP2.cpp
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\tp2\tp2\tp2\tp2.cpp(13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\tp2\tp2\tp2\tp2.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\tp2\tp2\tp2\tp2.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TP2.vcxproj -> C:\Users\Ana\Desktop\MIEIC\2ANO\1 Semestre\MNUM\TP2\TP2\Debug\TP2.exe
