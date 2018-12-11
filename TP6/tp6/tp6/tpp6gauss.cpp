@@ -82,13 +82,14 @@ int main() {
 	//GaussJacobi(0, 0, 0, x, y, z);
 	GaussSeidel(0, 0, 0, x, y, z);
 
+	/*
 	if (checkdivergence(4, 2, 1) == true)
 		cout << "1" << endl;
 	if(checkdivergence(1, 3, 1) == true)
 		cout << "2 " << endl;
 	if (checkdivergence(2, 1, 5) == true)
 	cout << "3" << endl;
-
+	*/
 	cout << "x: " << x << endl;
 	cout << "y: " << y << endl;
 	cout << "z: " << z << endl;
