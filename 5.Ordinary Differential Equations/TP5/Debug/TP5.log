@@ -1,0 +1,9 @@
+﻿  TP5.cpp
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(74): error C2084: function 'double Rk4(double,double,double,double)' already has a body
+  c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(56): note: see previous definition of 'Rk4'
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(189): error C2568: '=': unable to resolve function overload
+  c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(189): note: could be 'double Rk4(double,double,double,double)'
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(192): error C2568: '=': unable to resolve function overload
+  c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(192): note: could be 'double Rk4(double,double,double,double)'
+c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(195): error C2568: '=': unable to resolve function overload
+  c:\users\ana\desktop\mieic\2ano\1 semestre\mnum\mnum-1819\tp5\tp5\tp5.cpp(195): note: could be 'double Rk4(double,double,double,double)'
